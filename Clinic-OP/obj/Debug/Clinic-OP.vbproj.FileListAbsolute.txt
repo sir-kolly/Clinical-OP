@@ -1,0 +1,9 @@
+G:\Trials\Clinic-OP\Clinic-OP\bin\Clinic-OP.dll.config
+G:\Trials\Clinic-OP\Clinic-OP\bin\Clinic-OP.dll
+G:\Trials\Clinic-OP\Clinic-OP\bin\Clinic-OP.pdb
+G:\Trials\Clinic-OP\Clinic-OP\bin\Clinic-OP.xml
+G:\Trials\Clinic-OP\Clinic-OP\obj\Debug\Clinic_OP.Resources.resources
+G:\Trials\Clinic-OP\Clinic-OP\obj\Debug\Clinic-OP.vbproj.GenerateResource.Cache
+G:\Trials\Clinic-OP\Clinic-OP\obj\Debug\Clinic-OP.dll
+G:\Trials\Clinic-OP\Clinic-OP\obj\Debug\Clinic-OP.xml
+G:\Trials\Clinic-OP\Clinic-OP\obj\Debug\Clinic-OP.pdb
